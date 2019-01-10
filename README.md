@@ -1,10 +1,10 @@
-# Unit 12 | Assignment - Web Visualization Dashboard (Latitude)
+Web Visualization Dashboard (Latitude)
 
 ## Background
 
 Data is more powerful when we share it with others! 
 
-![Images/landingResize.png](Images/landingResize.png)
+![Images/landing-page.png](Images/landing-page.png)
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
