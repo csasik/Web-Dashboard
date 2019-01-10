@@ -57,5 +57,5 @@ Large screen:
 
 
 Large screen:
-![visualize page large screen](Images/max-temperatue-plot.png)
+![visualize page large screen](Images/max_temperatue-plot.png)
 
